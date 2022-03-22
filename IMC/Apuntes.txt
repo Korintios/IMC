@@ -1,0 +1,21 @@
+✔ La aplicación debería permitirle calcular el IMC de una persona y obtener una
+representación de los resultados.
+✔ Cuando un usuario tiene un IMC grande también le dará algunas webs útiles con entrenamiento
+ejercicios para bajar de peso.
+✔ Si un usuario ingresa información no válida, se le advertirá visualmente del error.
+✔ El usuario puede iniciar sesión con sus credenciales.
+✔ Un usuario registrado puede ver los diferentes cálculos realizados en el tiempo (fecha y bmi)
+y el IMC promedio.
+✔ Los cálculos de un usuario registrado deben almacenarse en la base de datos para reclamar el
+requisito previo. Si el usuario no está registrado, el bmi no se almacena.
+✔ Un usuario registrado puede eliminar un cálculo de bmi simple o todos los cálculos que tiene.
+almacenado.
+✔ Un usuario registrado puede cerrar sesión.
+✔ OPCIONAL: El usuario registrado puede ver un gráfico de la evolución de su IMC a través del tiempo.
+
+✔ La aplicación debe estar desarrollada en PHP y MySQL.
+✔ Admite archivos HTML, CSS, imágenes, videos, sonidos y JavaScript, pero no completamente.
+resolver la funcionalidad solicitada.
+✔ El código debe estar comentado.
+✔ El código debe estar organizado y ser fácil de entender.
+✔ Todo el código debe estar codificado en UTF-8.
